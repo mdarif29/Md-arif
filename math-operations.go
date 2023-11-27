@@ -29,4 +29,10 @@ func main() {
   fmt.Println(remainder)
 
 }
+// Final Output
+// 7 + 4 = 11
+// 7 - 4 = 3
+// 7 * 4 is 28
+// 7 / 4 = 1
+// 3
 
