@@ -1,6 +1,4 @@
-// Implement basic math operations(+,-,*,/,%)
-
-
+// Implement basic math operations(+,-,*,/,%) on two numbers
 
 package main
 import "fmt"
