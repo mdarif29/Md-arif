@@ -74,6 +74,9 @@ func binarySearch(arr []int, x int) int {
 
 	return -1
 }
+This Go program defines a binarySearch function that takes a sorted array arr and an integer x as inputs. It returns the index of x in arr if x is present, otherwise, it returns -1.
+
+//In the main function, the program tests the binarySearch function by performing a binary search for the integer 10 in the array [2, 3, 4, 10, 40]. If the element is found, the program prints the element's index; otherwise, it prints a message indicating that the element is not present in the array.
 
 func main() {
 	arr := []int{2, 3, 4, 10, 40}
