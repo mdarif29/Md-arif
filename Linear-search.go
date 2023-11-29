@@ -53,3 +53,7 @@ func main() {
    	fmt.Printf("Element is not present in array")
    }
 }
+
+//This Go program uses the linearSearch function to find a given element x in a given integer array arr. 
+//The function returns the index of the first occurrence of x in arr, or -1 if x is not present in arr. 
+//The program then prints the result of the search.
